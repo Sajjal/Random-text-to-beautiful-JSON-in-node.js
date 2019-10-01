@@ -1,0 +1,888 @@
+  --------------------------- CITATION   01 OF   99 -------------------------
+Authors:  Oliver, Ron
+Oliver, Helen
+Title:  Information Access and Retrieval with Hypermedia Information Systems. /
+ by Oliver, Ron; Oliver, Helen
+Pub.Date:  1996
+Document no.:  EJ520272
+FOUND IN:  British Journal of Educational Technology; v27 n1 p33-44 Jan 1996
+Abstract:  Describes an investigation of the search strategies employed by
+ novice users of an interactive information system. A class of 12-year-old
+ students was instructed in use of an electronic encyclopedia, which they used
+ as an information source for projects and to complete skills tests. Students
+ employed inefficient search strategies and had difficulty creating search
+ requests for information-related problems. (Author/JKP)
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJJUL96
+If not avail. in your library or through ILL, for sale from:  UMI
+Minor Identifiers:  Electronic Media
+Major Descriptors:  Hypermedia
+Information Retrieval
+Online Searching
+Optical Data Disks
+Search Strategies
+Minor Descriptors:  Access to Information
+Elementary Education
+Encyclopedias
+Information Sources
+Problems
+ISSN:  0007-1013
+  --------------------------- CITATION   02 OF   99 -------------------------
+Authors:  Kimmel, Stacey
+Title:  Robot-Generated Databases on the World Wide Web. / by Kimmel, Stacey
+Pub.Date:  1996
+Document no.:  EJ520165
+FOUND IN:  Database; v19 n1 p40-43,46-49 Feb-Mar 1996
+Abstract:  Provides an overview of robots that retrieve World Wide Web documents
+ and index data and then store it in a database. Nine robot-generated databases
+ are described, including record content, services, search features, and sample
+ search results; and sidebars discuss the controversy about Web robots and other
+ resource discovery tools. (LRW)
+Pub.Type:  Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJJUL96
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  World Wide Web
+Minor Identifiers:  Examples
+Major Descriptors:  Databases
+Information Retrieval
+Online Searching
+Robotics
+Minor Descriptors:  Comparative Analysis
+Indexing
+Problems
+Search Strategies
+ISSN:  0162-4105
+  --------------------------- CITATION   03 OF   99 -------------------------
+Authors:  Lang, William Steve
+Grigsby, Mary
+Title:  Statistics for Measuring the Efficiency of Electronic Information
+ Retrieval. / by Lang, William Steve; Grigsby, Mary
+Pub.Date:  1996
+Document no.:  EJ518402
+FOUND IN:  Journal of the American Society for Information Science; v47 n2
+ p159-66 Feb 1996
+Abstract:  Describes the use of the tetrachoric correlation for experimental
+ research and hypothesis testing of the efficiency of computerized information
+ searching. Highlights include recall, relevance, and precision in information
+ retrieval; use of a spreadsheet; examples; and limitations. (Author/LRW)
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJJUN96
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Tetrachoric Correlation
+Minor Identifiers:  Examples
+Major Descriptors:  Efficiency
+Information Retrieval
+Measurement Techniques
+Online Searching
+Research Methodology
+Minor Descriptors:  Hypothesis Testing
+Mathematical Formulas
+Relevance (Information Retrieval)
+Spreadsheets
+Tables (Data)
+ISSN:  0002-8231
+  --------------------------- CITATION   04 OF   99 -------------------------
+Authors:  Shaw, Deborah
+Title:  Bibliographic Database Searching by Graduate Students in Language and
+ Literature: Search Strategies, System Interfaces, and Relevance Judgments. / by
+ Shaw, Deborah
+Pub.Date:  1995
+Document no.:  EJ518488
+FOUND IN:  Library & Information Science Research; v17 n4 p327-45 Fall 1995
+Abstract:  Discussion of information retrieval in the humanities focuses on a
+ study of 10 graduate students at Indiana University as they conducted
+ literature searches using databases on CD-ROM. Highlights include a review of
+ related literature, search strategies, relevance assessments, human-computer
+ interaction, and databases and indexing. (LRW)
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJJUN96
+Minor Identifiers:  Indiana University
+Major Descriptors:  Bibliographic Databases
+Graduate Students
+Humanities
+Information Retrieval
+Search Strategies
+Minor Descriptors:  Computer Interfaces
+Higher Education
+Indexing
+Information Needs
+Literature Reviews
+Man Machine Systems
+Online Searching
+Optical Data Disks
+Relevance (Information Retrieval)
+ISSN:  0740-8188
+  --------------------------- CITATION   05 OF   99 -------------------------
+Authors:  Pirkola, Ari
+Jarvelin, Kalervo
+Title:  The Effect of Anaphor and Ellipsis Resolution on Proximity Searching in
+ a Text Database. / by Pirkola, Ari; Jarvelin, Kalervo
+Pub.Date:  1996
+Document no.:  EJ516537
+FOUND IN:  Information Processing & Management; v32 n2 p199-216 Mar 1996
+Abstract:  Using a newspaper article database, this study analyzed the effects
+ of ellipsis and anaphor resolution on proximity searching in a full-text
+ database; 154 keyword pairs in different categories were created. Findings
+ indicate that some resolution method might be developed only for proper name
+ phrases to support keyword-based full-text information retrieval. (Author/AEF)
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY96
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Anaphora
+Ellipsis
+Minor Identifiers:  Keywords
+Major Descriptors:  Full Text Databases
+Information Retrieval
+Online Searching
+Search Strategies
+Minor Descriptors:  Case Studies
+Newspapers
+Use Studies
+ISSN:  0306-4573
+  --------------------------- CITATION   06 OF   99 -------------------------
+Authors:  Savoy, Jacques
+Title:  An Extended Vector-Processing Scheme for Searching Information in
+ Hypertext Systems. / by Savoy, Jacques
+Pub.Date:  1996
+Document no.:  EJ516534
+FOUND IN:  Information Processing & Management; v32 n2 p155-70 Mar 1996
+Abstract:  Proposes an extended vector-processing scheme that extracts
+ information from hypertext links to enhance retrieval effectiveness. Evaluates
+ the impact of bibliographic references, bibliographic coupling, cocitation and
+ document representative relationships. Shows that hypertext links do not always
+ improve average precision, and interdocument relationships do not compensate
+ for an appropriate choice of other retrieval features. (Author/AEF)
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY96
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Links (Indexing)
+Vector Method
+Major Descriptors:  Hypermedia
+Information Retrieval
+Online Searching
+Minor Descriptors:  Bibliographic Coupling
+Citations (References)
+Data Processing
+Information Processing
+Information Systems
+Systems Analysis
+Use Studies
+ISSN:  0306-4573
+  --------------------------- CITATION   07 OF   99 -------------------------
+Authors:  Aldous, K. J.
+Title:  A System for the Automatic Retrieval of Information from a Specialist
+ Database. / by Aldous, K. J.
+Pub.Date:  1996
+Document no.:  EJ516533
+FOUND IN:  Information Processing & Management; v32 n2 p139-54 Mar 1996
+Abstract:  Discusses a method for organizing and augmenting the data in a
+ complex database to make automatic retrieval possible. Presents an example of
+ the method using a database of information on the nature and use of fungicides.
+ Initial results of trials with potential users suggest that the system can
+ produce relevant responses to queries. (Author/AEF)
+Pub.Type:  Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY96
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Descriptors:  Automation
+Databases
+Information Retrieval
+Information Seeking
+Minor Descriptors:  Access to Information
+Data Processing
+Fungi
+Online Searching
+Search Strategies
+User Needs (Information)
+ISSN:  0306-4573
+  --------------------------- CITATION   08 OF   99 -------------------------
+Authors:  O'Kane, Kevin C.
+Title:  Generating Hierarchical Document Indices from Common Denominators in
+ Large Document Collections. / by O'Kane, Kevin C.
+Pub.Date:  1996
+Document no.:  EJ516525
+FOUND IN:  Information Processing & Management; v32 n1 p105-15 Jan 1996
+Abstract:  Describes an algorithm for computer generation of hierarchical
+ indexes for document collections. The resulting index, when presented with a
+ graphical interface, provides users with a view of a document collection that
+ permits general browsing and informal search activities via an access method
+ that requires no keyboard entry or prior knowledge of the vocabulary.
+ (Author/JMV)
+Pub.Type:  Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY96
+If not avail. in your library or through ILL, for sale from:  UMI
+Minor Identifiers:  Browsing
+Graphical User Interfaces
+Major Descriptors:  Access to Information
+Algorithms
+Automatic Indexing
+Online Searching
+Minor Descriptors:  Computer Graphics
+Computer Interfaces
+Indexes
+Information Retrieval
+Prior Learning
+Users (Information)
+Vocabulary
+ISSN:  0306-4573
+  --------------------------- CITATION   09 OF   99 -------------------------
+Authors:  Hahn, Trudi Bellardo
+Title:  Pioneers of the Online Age. / by Hahn, Trudi Bellardo
+Pub.Date:  1996
+Document no.:  EJ516520
+FOUND IN:  Information Processing & Management; v32 n1 p33-48 Jan 1996
+Abstract:  Describes the historical development of online information retrieval
+ systems and services. Gives an overview of the three pioneer groups of the
+ online age: (1) programmers, system designers, and researchers; (2) managers,
+ trainers, and custom service representatives; and (3) users. Also examines
+ those individuals who made exceptional contributions to online systems and
+ services. Contains 71 references. (Author/JMV)
+Pub.Type:  Historical(060); Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY96
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Historical Background
+Minor Identifiers:  Customer Services
+Major Descriptors:  Information Retrieval
+Information Services
+Library Development
+Online Searching
+Online Systems
+Technological Advancement
+Minor Descriptors:  Administrators
+Designers
+Programmers
+Researchers
+Trainers
+Users (Information)
+ISSN:  0306-4573
+  --------------------------- CITATION   10 OF   99 -------------------------
+Authors:  Cronin, Blaise
+Hert, Carol A.
+Title:  Scholarly Foraging and Network Discovery Tools. / by Cronin, Blaise;
+ Hert, Carol A.
+Pub.Date:  1995
+Document no.:  EJ516550
+FOUND IN:  Journal of Documentation; v51 n4 p388-403 Dec 1995
+Abstract:  Parallels between subsistence foraging and scholarly information
+ seeking are described in the context of the World Wide Web. Suggests that the
+ prevailing information retrieval paradigm does not capture the complex of
+ behavior and stimuli that drives scholars' quests for new ideas and insights.
+ Research questions are suggested by extended use of the optimal foraging
+ metaphor. (Author/JKP)
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY96
+Major Identifiers:  World Wide Web
+Minor Identifiers:  Browsing
+Major Descriptors:  Information Retrieval
+Information Seeking
+User Needs (Information)
+Minor Descriptors:  Behavioral Science Research
+Information Theory
+Metaphors
+Online Searching
+ISSN:  0022-0418
+  --------------------------- CITATION   11 OF   99 -------------------------
+Authors:  Burton, Adrian P.
+Title:  GUI-Based Document Access via SATCOMMS: Online Electronic Document
+ Retrieval at the European Telecommunications Satellite Organization EUTELSAT. /
+ by Burton, Adrian P.
+Pub.Date:  1995
+Document no.:  EJ508635
+FOUND IN:  Information Management and Technology; v28 n4 p148-51 Jul 1995
+Abstract:  Discusses accessing online electronic documents at the European
+ Telecommunications Satellite Organization (EUTELSAT). Highlights include
+ off-site paper document storage, the document management system, benefits, the
+ EUTELSAT Standard IBM Access software, implementation, the development process,
+ and future enhancements. (AEF)
+Notes:  Journal availability: Cimtech Ltd., Univ. of Hertfordshire, 45 Grosvenor
+ Rd., St. Albans, Hertsfordshire ALI 3AW, England.
+Pub.Type:  Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJDEC95
+Major Identifiers:  Europe
+Major Descriptors:  Access to Information
+Communications Satellites
+Electronic Text
+Information Retrieval
+Minor Descriptors:  Computer Software
+Database Management Systems
+Information Storage
+International Organizations
+Printed Materials
+Systems Development
+Telecommunications
+ISSN:  0266-6960
+  --------------------------- CITATION   12 OF   99 -------------------------
+Authors:  Chen, L. T.
+Title:  Efficient Organization and Access of Multi-Dimensional Datasets on
+ Tertiary Storage Systems. / by Chen, L. T.; And Others
+Pub.Date:  1995
+Document no.:  EJ503414
+FOUND IN:  Information Systems; v20 n2 p155-83 Apr 1995
+Abstract:  This paper addresses the problem of data management techniques for
+ efficiently retrieving requested subsets of large data sets from mass storage
+ devices. Describes the development of algorithms and software that facilitate
+ the partitioning of a large data set into multiple "clusters" that reflect
+ their expected access. (Author/JKP)
+Notes:  Journal availability: Elsevier Science, 660 White Plains Rd., Tarrytown,
+ NY 10591-5153.
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJSEP95
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Descriptors:  Algorithms
+Computer Software Development
+Database Management Systems
+Information Management
+Information Retrieval
+Minor Descriptors:  Databases
+Data Processing
+Information Storage
+Management Information Systems
+Problems
+  --------------------------- CITATION   13 OF   99 -------------------------
+Authors:  Moffat, Alistair
+Title:  Memory Efficient Ranking. / by Moffat, Alistair; And Others
+Pub.Date:  1994
+Document no.:  EJ493355
+FOUND IN:  Information Processing & Management; v30 n6 p733-44 Nov-Dec 1994
+Abstract:  Describes an approximate document ranking process that uses a compact
+ array of in-memory, low-precision approximations for document length. Combined
+ with another rule for reducing the memory required by partial similarity
+ accumulators, the approximation heuristic allows the ranking of large document
+ collections using less than one byte of memory per document. (20 references)
+ (KRN)
+Pub.Type:  Descriptive(141); Evaluative/feasibility(142); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAR95
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Data Compression
+Ranking
+Major Descriptors:  Full Text Databases
+Information Retrieval
+Information Storage
+Information Theory
+Mathematical Formulas
+Minor Descriptors:  Database Design
+Database Management Systems
+Models
+Optical Data Disks
+Performance
+Tables (Data)
+ISSN:  0306-4573
+  --------------------------- CITATION   14 OF   99 -------------------------
+Authors:  Dalrymple, Prudence W.
+Roderer, Nancy K.
+Title:  Database Access Systems. / by Dalrymple, Prudence W.; Roderer, Nancy K.
+Pub.Date:  1994
+Document no.:  EJ491623
+FOUND IN:  Annual Review of Information Science and Technology (ARIST); v29
+ p137-78 1994
+Abstract:  Highlights the changes that have occurred from 1987-93 in database
+ access systems. Topics addressed include types of databases, including CD-ROMs;
+ enduser interface; database selection; database access management, including
+ library instruction and use of primary literature; economic issues; database
+ users; the search process; and improving end-user searching. (231 references)
+ (LRW)
+Pub.Type:  Information analysis(070); Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJFEB95
+If not avail. in your library or through ILL, for sale from:  UMI
+Minor Identifiers:  User Characteristics
+Major Descriptors:  Database Management Systems
+Information Retrieval
+Minor Descriptors:  Databases
+Economic Factors
+Library Instruction
+Library Services
+Literature Reviews
+Man Machine Systems
+Optical Data Disks
+Primary Sources
+Search Strategies
+Users (Information)
+ISSN:  0066-4200
+  --------------------------- CITATION   15 OF   99 -------------------------
+Authors:  Larson, Ray R.
+Title:  Design and Development of a Network-Based Electronic Library. / by
+ Larson, Ray R.
+Pub.Date:  1994
+Document no.:  EJ491476
+FOUND IN:  Proceedings of the ASIS Mid-Year Meeting; p95-114 1994
+Abstract:  Describes collaboration between the University of California at
+ Berkeley and four other universities to develop interoperable servers
+ containing each participant's Computer Science Technical Reports and to make
+ them available over the Internet using standard protocols. The proposed library
+ architecture, approaches to indexing and retrieval, and research issues in
+ electronic libraries are covered. (11 references) (KRN)
+Notes:  "Navigating the Networks," Portland, OR, May 21-25, 1994.
+Pub.Type:  Descriptive(141); Speech/conference paper(150); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJFEB95
+Major Identifiers:  Electronic Libraries
+Internet
+Minor Identifiers:  Graphical User Interfaces
+Network Protocols
+University of California Berkeley
+Major Descriptors:  Computer Networks
+Full Text Databases
+Information Retrieval
+Intercollegiate Cooperation
+Scientific and Technical Information
+Minor Descriptors:  Academic Libraries
+Access to Information
+Automatic Indexing
+Computer Science
+Cooperative Programs
+Database Management Systems
+Flow Charts
+Higher Education
+Information Networks
+Research Needs
+Shared Library Resources
+  --------------------------- CITATION   16 OF   99 -------------------------
+Authors:  Silvester, June P.
+Title:  Machine-Aided Indexing at NASA. / by Silvester, June P.; And Others
+Pub.Date:  1994
+Document no.:  EJ489688
+FOUND IN:  Information Processing and Management; v30 n5 p631-45 Sep-Oct 1994
+Abstract:  Describes the National Aeronautics and Space Administration (NASA)
+ Lexical Dictionary (NLD), a machine-aided indexing system used online at the
+ NASA Center for AeroSpace Information (CASI). The functions of NLD system
+ components are described in detail, and production and quality benefits
+ resulting from machine-aided indexing at CASI are discussed. (Contains 12
+ references.) (KRN)
+Pub.Type:  Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJJAN95
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  National Aeronautics and Space Administration
+Minor Identifiers:  Examples
+Indexers
+Knowledge Bases
+Stopwords
+Major Descriptors:  Automatic Indexing
+Subject Index Terms
+Minor Descriptors:  Database Management Systems
+Dictionaries
+Evaluation
+Information Retrieval
+Lexicography
+Natural Language Processing
+Online Systems
+Thesauri
+ISSN:  0306-4573
+  --------------------------- CITATION   17 OF   99 -------------------------
+Authors:  Chen, Zhengxin
+Title:  Enhancing Database Management to Knowledge Base Management: The Role of
+ Information Retrieval Technology. / by Chen, Zhengxin
+Pub.Date:  1994
+Document no.:  EJ481949
+FOUND IN:  Information Processing and Management; v30 n3 p419-35 May-Jun 1994
+Abstract:  Investigates the role of information retrieval in the enhancement
+ from database management to knowledge base management and considers the
+ relationship between information retrieval and artificial intelligence.
+ Highlights include unstructured databases; storage of internal forms of
+ documents; an example with relational database operations; and intelligent
+ information systems. (Contains 30 references.) (LRW)
+Pub.Type:  Information analysis(070); Viewpoint(120); Research/technical(143);
+ Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJAUG94
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Knowledge Bases
+Minor Identifiers:  Conceptual Models
+Examples
+Knowledge Acquisition
+Relational Approach (Information Retrieval)
+Major Descriptors:  Artificial Intelligence
+Database Management Systems
+Information Retrieval
+Information Systems
+Minor Descriptors:  Research Needs
+ISSN:  0306-4573
+  --------------------------- CITATION   18 OF   99 -------------------------
+Authors:  Touwen, L. Jeroen
+Title:  The Medieval and Early Modern Data Bank. / by Touwen, L. Jeroen
+Pub.Date:  1992
+Document no.:  EJ478451
+FOUND IN:  Computers and the Humanities; v26 n4 p237-47 Aug 1992
+Abstract:  Illustrates the use of computer data banks in history by examining
+ the Medieval and Early Modern Data Bank (MEMDB) located at Rutgers University.
+ States the database contains an expanding collection of historical monetary and
+ price/wage data. Includes instructions, examples of search strategies, and an
+ annotated bibliography. (CFR)
+Pub.Type:  Descriptive(141); Bibliography(131); Journal article(080)
+Intended audience:  Teachers; Researchers; Practitioners
+Language:  English
+RIE/CIJE issue:  CIJJUN94
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Medieval and Early Modern Data Bank
+Minor Identifiers:  Europe (West)
+Historians
+Rutgers the State University NJ
+Major Descriptors:  Computer Uses in Education
+Databases
+Economic Factors
+History
+Information Retrieval
+Minor Descriptors:  Annotated Bibliographies
+Database Management Systems
+Economic Change
+Foreign Countries
+Higher Education
+Research Tools
+Social Scientists
+ISSN:  0010-4817
+  --------------------------- CITATION   19 OF   99 -------------------------
+Authors:  Jarvelin, Kalervo
+Niemi, Timo
+Title:  Deductive Information Retrieval Based on Classifications. / by Jarvelin,
+ Kalervo; Niemi, Timo
+Pub.Date:  1993
+Document no.:  EJ476369
+FOUND IN:  Journal of the American Society for Information Science; v44 n10
+ p557-78 Dec 1993
+Abstract:  Shows how deductive data management techniques can be applied to the
+ utilization of data value classifications in information retrieval. A
+ representation of classifications which supports transitive computation is
+ defined, and an operation-oriented deductive query language tailored for
+ classification-based deductive information retrieval in fact databases is
+ presented. (Contains 27 references.) (LRW)
+Pub.Type:  Viewpoint(120); Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY94
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Data Management
+Query Languages
+Minor Identifiers:  Examples
+Relational Approach (Information Retrieval)
+Transitivity
+Major Descriptors:  Classification
+Deduction
+Information Retrieval
+Minor Descriptors:  Database Management Systems
+Databases
+Mathematical Formulas
+Thesauri
+ISSN:  0002-8231
+  --------------------------- CITATION   20 OF   99 -------------------------
+Authors:  Motzkin, D.
+Title:  On High Performance of Updates within an Efficient Document Retrieval
+ System. / by Motzkin, D.
+Pub.Date:  1994
+Document no.:  EJ474703
+FOUND IN:  Information Processing and Management; v30 n1 p93-118 Jan-Feb 1994
+Abstract:  Describes fast, dynamic update algorithms for document retrieval
+ systems. B-trees are discussed; the M-B-T file directory structure is
+ explained; insertions and deletions in inverted files are described; and
+ performance evaluation is discussed. An appendix provides the formal definition
+ of an M-B-T directory. (Contains 18 references.) (LRW)
+Pub.Type:  Viewpoint(120); Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJAPR94
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Inverted Files
+Minor Identifiers:  Binary Trees
+Major Descriptors:  Information Retrieval
+Minor Descriptors:  Algorithms
+Database Management Systems
+Subject Index Terms
+Tables (Data)
+ISSN:  0306-4573
+  --------------------------- CITATION   21 OF   99 -------------------------
+Authors:  Ingwersen, Peter
+Title:  Cognitive Perspectives of Information Retrieval Interaction: Elements of
+ a Cognitive IR Theory. / by Ingwersen, Peter
+Pub.Date:  1996
+Document no.:  EJ520249
+FOUND IN:  Journal of Documentation; v52 n1 p3-50 Mar 1996
+Abstract:  Discusses the basic elements of a global cognitive theory for
+ information retrieval (IR) interaction from a cognitive point of view. Within
+ this framework are outlined the principles underlying the concept of
+ polyrepresentation applied simultaneously to the user's cognitive space and the
+ information space of IR systems. Contains 95 references. (Author/LRW)
+Pub.Type:  Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJJUL96
+Minor Identifiers:  Conceptual Frameworks
+Theoretical Analysis
+Major Descriptors:  Cognitive Processes
+Epistemology
+Information Retrieval
+Knowledge Representation
+Minor Descriptors:  Global Approach
+Information Needs
+Information Seeking
+Semantics
+ISSN:  0022-0418
+  --------------------------- CITATION   22 OF   99 -------------------------
+Authors:  Turner, Pat
+Hendrix, Beasey
+Title:  NETting an Ally: Cooperative Planning Enhances Projects. / by Turner,
+ Pat; Hendrix, Beasey
+Pub.Date:  1996
+Document no.:  EJ520174
+FOUND IN:  School Library Media Activities Monthly; v12 n7 p28-29,36 Mar 1996
+Abstract:  Describes a social studies project cooperatively planned and taught
+ by the library media specialist and a classroom teacher at the Cartersville
+ Middle School in Cartersville, Georgia. The project teaches seventh graders to
+ use traditional research skills as well as technological computer-based
+ research skills to identify, locate, select, interpret, and use information.
+ (Author/JMV)
+Pub.Type:  Teaching guide(052); Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJJUL96
+Minor Identifiers:  Georgia (Cartersville)
+Major Descriptors:  Computer Uses in Education
+Librarian Teacher Cooperation
+Research Skills
+Social Studies
+Student Projects
+Teaching Methods
+Minor Descriptors:  Grade 7
+Information Retrieval
+Information Seeking
+Junior High Schools
+Middle Schools
+Student Research
+ISSN:  0889-9371
+  --------------------------- CITATION   23 OF   99 -------------------------
+Authors:  Jansen, Barbara A.
+Title:  Reading for Information: The Trash-'n-Treasure Method of Teaching
+ Notetaking. / by Jansen, Barbara A.
+Pub.Date:  1996
+Document no.:  EJ516617
+FOUND IN:  School Library Media Activities Monthly; v12 n6 p29-32 Feb 1996
+Abstract:  Effective notetaking in student research consists of three steps:
+ identification of key-word and related words in the researchable questions,
+ skimming and scanning, and extracting needed information. These steps begin
+ after students have defined and narrowed the task, constructed researchable
+ questions, and located appropriate sources. Two sidebars provide examples.
+ (AEF)
+Pub.Type:  Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY96
+Minor Identifiers:  Examples
+Keywords
+Major Descriptors:  Decision Making
+Information Retrieval
+Notetaking
+Prewriting
+Research Skills
+Student Research
+Minor Descriptors:  Information Seeking
+Information Sources
+Student Projects
+User Needs (Information)
+ISSN:  0889-9371
+  --------------------------- CITATION   24 OF   99 -------------------------
+Authors:  Liang, Tyne
+Title:  Optimal Weight Assignment for a Chinese Signature File. / by Liang,
+ Tyne; And Others
+Pub.Date:  1996
+Document no.:  EJ516539
+FOUND IN:  Information Processing & Management; v32 n2 p227-37 Mar 1996
+Abstract:  Investigates the performance of a character-based Chinese text
+ retrieval scheme in which monogram keys and bigram keys are encoded into
+ document signatures. Tests and verifies the theoretical predictions of the
+ optimal weight assignments and the minimal false hit rate in experiments using
+ a real Chinese corpus for disyllabic queries of different association values.
+ (AEF)
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY96
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Optimal Scaling
+Weighted Data
+Minor Identifiers:  Query Processing
+Major Descriptors:  Chinese
+Ideography
+Information Retrieval
+Information Systems
+Minor Descriptors:  Information Seeking
+ISSN:  0306-4573
+  --------------------------- CITATION   25 OF   99 -------------------------
+Authors:  Duffield, Judith A.
+Title:  Search Models: Who Does the Looking? / by Duffield, Judith A.
+Pub.Date:  1996
+Document no.:  EJ516495
+FOUND IN:  School Library Media Activities Monthly; v12 n5 p28-30 Jan 1996
+Abstract:  Describes two search models for school libraries. Models include
+ searches defined by the student but conducted by a trained searcher, and
+ student-conducted searches which teach search skills. Decisions about which
+ model (or combination) to use should be based on the available resources and
+ the purposes for conducting the search. (AEF)
+Pub.Type:  Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAY96
+Major Descriptors:  Information Retrieval
+Information Seeking
+Media Specialists
+Search Intermediaries
+Search Strategies
+Student Research
+Minor Descriptors:  Library Materials
+Library Skills
+Models
+School Libraries
+ISSN:  0889-9371
+  --------------------------- CITATION   26 OF   99 -------------------------
+Authors:  Pappas, Marjorie L.
+Title:  Analytical Searching. / by Pappas, Marjorie L.
+Pub.Date:  1995
+Document no.:  EJ515155
+FOUND IN:  School Library Media Activities Monthly; v12 n4 p35-37 Dec 1995
+Abstract:  Discusses analytical searching, a process that enables searchers of
+ electronic resources to develop a planned strategy by combining words or
+ phrases with Boolean operators. Defines simple and complex searching, and
+ describes search strategies developed with Boolean logic and truncation.
+ Provides guidelines for teaching students analytical searching. (AEF)
+Pub.Type:  Teaching guide(052); Descriptive(141); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJAPR96
+Major Identifiers:  Analytical Methods
+Boolean Search Strategy
+Minor Identifiers:  Truncation (Information Retrieval)
+Major Descriptors:  Information Seeking
+Online Searching
+Search Strategies
+Minor Descriptors:  Elementary Secondary Education
+Guidelines
+Information Retrieval
+Strategic Planning
+Teaching Methods
+ISSN:  0889-9371
+  --------------------------- CITATION   27 OF   99 -------------------------
+Authors:  Spink, Amanda
+Beatty, Leslie
+Title:  Multiple Search Sessions by End-Users of Online Catalogs and CD-ROM
+ Databases. / by Spink, Amanda; Beatty, Leslie
+Pub.Date:  1995
+Document no.:  EJ513858
+FOUND IN:  Proceedings of the ASIS Annual Meeting; v32 p77-83 1995
+Abstract:  Results are reported from a study that investigated the extent to
+ which academic library end users conducted multiple search sessions with online
+ public access catalogs or CD-ROM databases at different stages of their
+ information seeking related to a research project. Implications for training,
+ retrieval systems design, and further research are discussed. (Author/LRW)
+Notes:  Paper presented at the ASIS Annual Meeting (58th, Chicago, IL, October
+ 9-12, 1995).
+Pub.Type:  Research/technical(143); Speech/conference paper(150); Journal
+ article(080)
+Language:  English
+RIE/CIJE issue:  CIJMAR96
+Minor Identifiers:  Training Needs
+User Training
+Major Descriptors:  Academic Libraries
+Library Catalogs
+Online Catalogs
+Optical Data Disks
+Search Strategies
+Users (Information)
+Minor Descriptors:  Computer System Design
+Databases
+Higher Education
+Information Retrieval
+Information Seeking
+Research Needs
+Student Research
+Tables (Data)
+Use Studies
+ISSN:  0160-0044
+  --------------------------- CITATION   28 OF   99 -------------------------
+Authors:  Wildemuth, Barbara M.
+O'Neill, Ann L.
+Title:  The "Known" in Known-Item Searches: Empirical Support for User-Centered
+ Design. / by Wildemuth, Barbara M.; O'Neill, Ann L.
+Pub.Date:  1995
+Document no.:  EJ510315
+FOUND IN:  College & Research Libraries; v56 n3 p265-81 May 1995
+Abstract:  User-centered design of catalog records requires the study of user
+ behaviors and cognition related to interaction with the catalog. During 3
+ phases of a pilot study, 103 catalog users described 386 searches; searchers
+ generally knew the title, publication date, page numbers, and/or the author.
+ (Author/AEF)
+Pub.Type:  Evaluative/feasibility(142); Test/evaluation instrument(160); Journal
+ article(080)
+Language:  English
+RIE/CIJE issue:  CIJJAN96
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Descriptors:  Behavior Patterns
+Design Requirements
+Library Catalogs
+Online Searching
+Users (Information)
+Minor Descriptors:  Bibliographic Records
+Case Studies
+Information Retrieval
+Information Seeking
+Library Materials
+Pilot Projects
+Search Strategies
+Use Studies
+ISSN:  0010-0870
+  --------------------------- CITATION   29 OF   99 -------------------------
+Authors:  Tillotson, Joy
+Title:  Is Keyword Searching the Answer? / by Tillotson, Joy
+Pub.Date:  1995
+Document no.:  EJ510309
+FOUND IN:  College & Research Libraries; v56 n3 p199-206 May 1995
+Abstract:  Examines three aspects of keyword searching as a possible solution to
+ subject search problems in online public access catalogs (OPACs). Discusses
+ search results, user satisfaction, and how keyword searching and controlled
+ vocabulary searching are offered in OPAC interfaces. Concludes that keyword
+ searching and controlled vocabulary searching should be made easily available
+ with improved explanations. (Author/AEF)
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJJAN96
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Identifiers:  Keywords
+Major Descriptors:  Library Catalogs
+Online Searching
+Problems
+Search Strategies
+User Satisfaction (Information)
+Minor Descriptors:  Access to Information
+Computer Interfaces
+Information Retrieval
+Information Seeking
+Vocabulary
+ISSN:  0010-0870
+  --------------------------- CITATION   30 OF   99 -------------------------
+Authors:  Watson-Boone, Rebecca
+Title:  The Information Needs and Habits of Humanities Scholars. / by
+ Watson-Boone, Rebecca
+Pub.Date:  1994
+Document no.:  EJ508726
+FOUND IN:  RQ; v34 n2 p203-16 Win 1994
+Abstract:  A review of literature from 1983 to 1992 suggests that a more
+ complete understanding is now possible of the information needs, uses, and
+ information-seeking behavior of the humanities scholar. A current portrait of
+ humanities scholars suggests that this client group is more diverse than
+ previously assumed. (Author/JKP)
+Pub.Type:  Research/technical(143); Journal article(080)
+Language:  English
+RIE/CIJE issue:  CIJDEC95
+If not avail. in your library or through ILL, for sale from:  UMI
+Major Descriptors:  Humanities
+Information Retrieval
+Information Seeking
+Learning Strategies
+Researchers
+User Needs (Information)
+Minor Descriptors:  Behavioral Science Research
+Information Skills
+Inquiry
+Search Strategies
+ISSN:  0033-7072
