@@ -1,9 +1,11 @@
 const fs = require('fs');
 
-let id, author, title, pub_date, more_info, abstract, formattedData;
-let mainRecords = { id, author, title, pub_date, more_info, abstract };
+let writeMainDb = fs.createWriteStream('mainDatabase.json');
 
 let authorSubString, titleSubString, AbstractSubString, pub_dateSubString, more_infoSubString;
+let mainRecords = [{}];
+let authorIndex = [{}];
+let titleIndex = [{}];
 
 let authorArray = [],
     authorObj = {};
@@ -16,17 +18,13 @@ let pub_dateArray = [],
 let more_infoArray = [],
     moreinfoObj = {};
 
-module.exports = {
-    getData: async function(rawFile) {
-        
-    let writeMainDb = fs.createWriteStream('mainDatabase.json');
-        
+let rawFile = 'eric2000.txt'
+
 fs.readFile(rawFile, (err, data) => {
     if (err) throw err;
     let regexData = /Authors: (.*?)Language: /gs;
     let dataMatch;
-    let recordCount = 0,
-        count = 30;
+    let recordCount = 0;
 
     while (dataMatch = regexData.exec(data)) {
         let str = dataMatch[1];
@@ -58,24 +56,19 @@ fs.readFile(rawFile, (err, data) => {
         abstractObj = abstractSubString.replace(/\r\n/g, "");
         abstractArray.push(abstractObj);
 
-        mainRecords.id = recordCount + 1;
-        mainRecords.author = authorArray[recordCount];
-        mainRecords.title = titleArray[recordCount];
-        mainRecords.pub_date = pub_dateArray[recordCount];
-        mainRecords.more_info = more_infoArray[recordCount];
-        mainRecords.abstract = abstractArray[recordCount];
-
+        mainRecords[recordCount] = {
+            id: recordCount + 1,
+            author: authorArray[recordCount],
+            title: titleArray[recordCount],
+            pub_date: pub_dateArray[recordCount],
+            more_info: more_infoArray[recordCount],
+            abstract: abstractArray[recordCount]
+        };
         recordCount++;
+    }
 
-        if (recordCount == 1) {
-            formattedData = "[" + JSON.stringify(mainRecords, null, 4) + ",";
-        } else if (recordCount > 1 && recordCount < count) {
-            formattedData = JSON.stringify(mainRecords, null, 4) + ",";
-        } else if (recordCount == count) {
-            formattedData = JSON.stringify(mainRecords, null, 4) + "]";
-        }
-        writeMainDb.write(formattedData);
-    }
+    formattedData = JSON.stringify(mainRecords, null, 4);  
+    writeMainDb.write(formattedData);
+    console.log("Beautiful JSON file: 'data.json' is Generated Successfully.")
+
 });
-    }
-}
