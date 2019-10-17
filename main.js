@@ -1,71 +1,81 @@
 const fs = require('fs');
-const lineReader = require('line-reader');
-let writeStream = fs.createWriteStream('data.json');
-let id, authors, title, pub_date, more_info, abstract, formattedData, recordCount = 0;
-var records = { id, authors, title, pub_date, more_info, abstract };
-var mySubStringTitle, mySubStringAbstract, titleCount = 0,
-    abstractCount = 0;
-var titles = [];
-var abstracts = [];
+
+let id, author, title, pub_date, more_info, abstract, formattedData;
+let mainRecords = { id, author, title, pub_date, more_info, abstract };
+
+let authorSubString, titleSubString, AbstractSubString, pub_dateSubString, more_infoSubString;
+
+let authorArray = [],
+    authorObj = {};
+let titleArray = [],
+    titleObj = {};
+let abstractArray = [],
+    abstractObj = {};
+let pub_dateArray = [],
+    pub_dateObj = {};
+let more_infoArray = [],
+    moreinfoObj = {};
 
 module.exports = {
-    getData: async function(filename) {
+    getData: async function(rawFile) {
+        
+    let writeMainDb = fs.createWriteStream('mainDatabase.json');
+        
+fs.readFile(rawFile, (err, data) => {
+    if (err) throw err;
+    let regexData = /Authors: (.*?)Language: /gs;
+    let dataMatch;
+    let recordCount = 0,
+        count = 30;
 
-        fs.readFile(filename, (err, data) => {
-            if (err) throw err;
-            var input = data;
-            var regexTitle = /Title: (.*?)Pub.Date: /gs;
-            var matchesTitle;
+    while (dataMatch = regexData.exec(data)) {
+        let str = dataMatch[1];
 
-            while (matchesTitle = regexTitle.exec(input)) {
-                titles[titleCount] = {};
-                let str = matchesTitle[1];
-                mySubStringTitle = str.substring(
-                    str.lastIndexOf("Title: ") + 1,
-                    str.lastIndexOf(" /")
-                );
-                titles[titleCount] = mySubStringTitle.replace("\r\n", "");
-                titles.push(titles[titleCount]);
-                titleCount++;
-            }
-            var regexAbstract = /Abstract: (.*?)Pub.Type: /gs;
-            var matchesAbstract;
-            while (matchesAbstract = regexAbstract.exec(input)) {
-                abstracts[abstractCount] = {};
-                let strAbstract = matchesAbstract[1];
-                mySubStringAbstract = strAbstract.substring(
-                    strAbstract.lastIndexOf("Abstract: ") + 1,
-                    strAbstract.lastIndexOf(" (")
-                );
-                abstracts[abstractCount] = mySubStringAbstract.replace(/\r\n/g, "");
-                abstracts.push(abstracts[abstractCount]);
-                abstractCount++;
-            }
+        authorSubString = str.split('Authors:').pop().split('\r\n')[0];
+        authorObj = authorSubString.replace(" ", "");
+        authorObj = authorObj.replace(",", "");
+        authorArray.push(authorObj);
 
+        titleSubString = str.substring(
+            str.lastIndexOf("Title:") + 8,
+            str.lastIndexOf(" /")
+        );
+        titleObj = titleSubString.replace("\r\n", "");
+        titleArray.push(titleObj);
 
-            lineReader.eachLine(filename, function(line) {
+        pub_dateSubString = str.split('Pub.Date:').pop().split('\r\n')[0];
+        pub_dateObj = pub_dateSubString.replace("  ", "");
+        pub_dateArray.push(pub_dateObj);
 
-                if (line.includes("Authors: ")) {
-                    records.authors = line.substring(10);
-                    recordCount++;
-                    records.id = recordCount;
-                    records.title = titles[recordCount - 1];
-                    records.abstract = abstracts[recordCount - 1];
-                } else if (line.includes("Pub.Date: ")) {
-                    records.pub_date = line.substring(11);
-                } else if (line.includes("FOUND IN: ")) {
-                    records.more_info = line.substring(11);
+        more_infoSubString = str.split('FOUND IN:').pop().split('\r\n')[0];
+        more_infoObj = more_infoSubString.replace("  ", "");
+        more_infoArray.push(more_infoObj);
 
-                    if (recordCount == 1) {
-                        formattedData = "[" + JSON.stringify(records, null, 4) + ",";
-                    } else if (recordCount > 1 && recordCount < titleCount) {
-                        formattedData = JSON.stringify(records, null, 4) + ",";
-                    } else if (recordCount == titleCount) {
-                        formattedData = JSON.stringify(records, null, 4) + "]";
-                    }
-                    writeStream.write(formattedData);
-                }
-            });
-        })
+        abstractSubString = str.substring(
+            str.lastIndexOf("Abstract:") + 11,
+            str.lastIndexOf(" (")
+        );
+        abstractObj = abstractSubString.replace(/\r\n/g, "");
+        abstractArray.push(abstractObj);
+
+        mainRecords.id = recordCount + 1;
+        mainRecords.author = authorArray[recordCount];
+        mainRecords.title = titleArray[recordCount];
+        mainRecords.pub_date = pub_dateArray[recordCount];
+        mainRecords.more_info = more_infoArray[recordCount];
+        mainRecords.abstract = abstractArray[recordCount];
+
+        recordCount++;
+
+        if (recordCount == 1) {
+            formattedData = "[" + JSON.stringify(mainRecords, null, 4) + ",";
+        } else if (recordCount > 1 && recordCount < count) {
+            formattedData = JSON.stringify(mainRecords, null, 4) + ",";
+        } else if (recordCount == count) {
+            formattedData = JSON.stringify(mainRecords, null, 4) + "]";
+        }
+        writeMainDb.write(formattedData);
+    }
+});
     }
 }
