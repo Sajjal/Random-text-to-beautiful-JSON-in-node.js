@@ -1,11 +1,9 @@
 const fs = require('fs');
 
-let writeMainDb = fs.createWriteStream('mainDatabase.json');
+let writeMainDb = fs.createWriteStream('data.json');
 
 let authorSubString, titleSubString, AbstractSubString, pub_dateSubString, more_infoSubString;
 let mainRecords = [{}];
-let authorIndex = [{}];
-let titleIndex = [{}];
 
 let authorArray = [],
     authorObj = {};
